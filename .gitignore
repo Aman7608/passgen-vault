@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+build/
+dist/
+*.spec
+
+# Secrets and user data - never commit these
+.env
+.env.*
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+*.pgvault
+*.bak
+*.restore-tmp
+*.tmp
+*.key
+*.pem
+*.log
+backups/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
