@@ -1,0 +1,9 @@
+# App
+customtkinter==6.0.0
+cryptography==50.0.2
+argon2-cffi==25.1.0
+platformdirs==4.14.8
+matplotlib==3.11.2
+
+# Tests
+pytest==9.2.0
