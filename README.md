@@ -174,4 +174,4 @@ Full threat model and limitations: **[SECURITY.md](SECURITY.md)**.
 
 ## Credits
 
-- Common password list: see [assets/README.md](assets/README.md).
+- Common password list: top 10,000 from [SecLists](https://github.com/danielmiessler/SecLists) by Daniel Miessler (MIT license). Details in [assets/README.md](assets/README.md).
